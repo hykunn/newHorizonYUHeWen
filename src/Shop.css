@@ -1,0 +1,55 @@
+.iconContainer{
+	width: auto;
+	height: 140px;
+	padding-top: 50px;
+	padding-left: 850px;
+}
+
+#h1{
+	float: left;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+#shopIcon{
+	float: left;
+}
+
+.shopContainer{
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: 40px;
+}
+
+.shopContent{
+	box-sizing: border-box;
+	background: white;
+}
+
+.shopFooter{
+	padding-right: 100px;
+}
+
+#pay{
+	height: 42px;
+	width: 90px;
+	float: right;
+}
+
+#summary{
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+#choosen{
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+#delete{
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+}

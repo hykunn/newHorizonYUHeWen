@@ -1,0 +1,81 @@
+.infoContent{
+	background: white;
+}
+
+.classInfo{
+	width: 1400px;
+	height: 500px;
+	margin: auto;
+	background: white;
+}
+
+.classInfo h1{
+	margin-top: 10px;
+}
+
+#classPic{
+	width: 300px;
+	height: 400px;
+	float: left;
+	margin-right: 35px;
+}
+
+#detailList{
+	width: 1000px;
+	height: auto;
+	float: left;
+}
+
+.detailContent{
+	float: left;
+	height: 35px;
+	padding-top: 5px;
+}
+
+#classMes{
+	font-size: larger;
+	font-weight: bold;
+}
+
+#study{
+	float: right;
+	margin-top: 15px;
+}
+
+.Introduction{
+	width: 1350px;
+	margin: auto;
+}
+
+.classIntroduction{
+	width: 925px;
+	height: 320px;
+	margin: auto;
+	float: left;
+}
+
+.teacher{
+	width: 400px;
+	height: 320px;
+	background: white;
+	float: right;
+}
+
+h2{
+	font-weight: bold;
+}
+
+.catalogue{
+	float: left;
+	width: 925px;
+}
+
+.teacherInfo{
+	width: 320px;
+	float: left;
+	margin-left: 25px;
+}
+
+.divider{
+	float: left;
+}
